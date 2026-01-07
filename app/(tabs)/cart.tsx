@@ -6,7 +6,7 @@ const cartItems = [
     name: 'Zinger Burger',
     price: 750,
     image: { uri: 'https://images.unsplash.com/photo-1571091718767-18b5b1457add?q=80&w=1000&auto=format&fit=crop' },
-    quantity: 1,
+    quantity: 2,
   },
   {
     id: 2,
